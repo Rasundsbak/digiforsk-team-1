@@ -4,3 +4,4 @@
 - vann
 - smør
 - salt
+(https://www.vg.no "Nyhende")
